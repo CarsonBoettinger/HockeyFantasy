@@ -7,7 +7,7 @@
 <p>Welcome to the HockeyFantasy repository! This project is dedicated to the comprehensive analysis of player performance in the context of the 2024-2025 hockey season and the upcoming 2024 playoffs. By leveraging various sophisticated generalized linear regression models, our goal is to provide deep insights and accurate forecasts to enhance your understanding and enjoyment of fantasy hockey.
 </p>
 <h2>About</h2>
-In this repository, I delve into the intricate world of hockey analytics, utilizing cutting-edge statistical techniques to dissect player performance, team dynamics, and game strategies. Our analyses are meticulously crafted to deliver actionable insights that can inform fantasy hockey decisions, draft strategies, and in-game predictions.
+In this repository, I delve into the intricate world of hockey analytics, utilizing cutting-edge statistical techniques to dissect player performance, team dynamics, and game strategies. My analyses are meticulously crafted to deliver actionable insights that can inform fantasy hockey decisions, draft strategies, and in-game predictions.
 
 <h2>Key Features</h2>
 Advanced Statistical Models: I employed a variety of generalized linear regression models tailored to capture the nuances of hockey performance metrics, including goals, assists, shooting percentage, time on ice, and more.
