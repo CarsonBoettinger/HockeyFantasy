@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup as bs
 from selenium import webdriver #for dynamically loaded page elements that requests won't read in
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-service = Service('C:/Users/cbarg/Downloads/chromedriver_win32/chromedriver.exe') #if anyone ever dares use this you need to replace this with the path to your own chromedriver or what have you
+service = Service('YourDriverPath') 
 import time
 import re
 import numpy as np
